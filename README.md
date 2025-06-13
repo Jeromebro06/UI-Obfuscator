@@ -34,7 +34,7 @@ files {
 }
 ```
 
-## Commands
+## Commands (In Terminal NOT live console)
 
 ```bash
 npm run build          # Fast build (optimized obfuscation)
